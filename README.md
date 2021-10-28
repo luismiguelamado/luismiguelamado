@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @luismiguelamado
-- 👀 I’m interested in developing apps in React Native and Flutter. 
-- 🌱 I’m currently learning Git, React Native, AWS
-- 💞️ I’m looking to collaborate on react native projects. 
+- 👀 I’m interested in developing apps in React and React Native using Redux. 
+- 💞️ I’m looking to collaborate on react and react native projects. 
 - 📫 How to reach me luismiguelamado @ hotmail.com
 
 <!---
